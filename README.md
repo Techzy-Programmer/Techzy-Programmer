@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rishabh Kumar
+- 👀 I’m interested in C-Sharp .Net & PHP web developments
+- 🌱 I’m currently learning python
