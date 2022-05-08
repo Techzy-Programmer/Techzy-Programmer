@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rishabh Kumar
-- 👀 I’m interested in C-Sharp .Net & PHP web developments
-- 🌱 I’m currently learning python
+- 👀 I’m interested in C-Sharp, .Net, Javascript, Node.JS & PHP languages
+- 🌱 I’m currently focusing on **Python**
